@@ -1,4 +1,3 @@
-
 def gale_shapley(preferences):
  
     men, women = preferences
